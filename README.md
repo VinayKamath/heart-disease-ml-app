@@ -1,3 +1,5 @@
+<img width="1231" height="846" alt="streamlit_interface" src="https://github.com/user-attachments/assets/3a078ace-420a-4547-a817-dc628fa6e627" />
+
 # Heart Disease Prediction App
 
 An end-to-end machine learning project for predicting the presence of heart disease from patient clinical attributes. The project explores and preprocesses the UCI Heart Disease dataset, compares multiple classification algorithms, tunes their hyperparameters, evaluates them with several classification metrics, interprets the selected model with SHAP, and serves the final Random Forest pipeline through a Streamlit web application.
